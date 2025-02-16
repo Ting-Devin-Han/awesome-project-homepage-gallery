@@ -50,4 +50,4 @@ We introduce a method for composing object-level visual prompts within a text-to
 
 [📄 Paper](https://arxiv.org/abs/2501.01424) | [🌐 Project Page](https://snap-research.github.io/visual-composer/) | [💻 Code](https://snap-research.github.io/visual-composer/)
 
-![Visual Composer](main/images/Visual Composer.jpg)
+![Visual Composer](https://github.com/Ting-Devin-Han/awesome-project-homepage-gallery/raw/main/images/Visual%20Composer.jpg)
