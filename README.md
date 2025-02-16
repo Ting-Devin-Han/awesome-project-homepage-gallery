@@ -10,8 +10,8 @@
 
 ## 🧾 TODO List
 
-- [ ] Provide toolkits:wrench: for creating project homepage. 
-- [ ] Provide more inghts:bulb: for homepage designs.  
+- [ ] Provide toolkits :wrench: for creating project homepage. 
+- [ ] Provide more inghts :bulb: for homepage designs.  
 
 <!-- Tool part -->
 
